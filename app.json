@@ -1,7 +1,7 @@
 
 
 {
-  "name": "BWM-XMD-QUANTUM",
+  "name": "ben bro",
   "description": "Best WhatsApp bot developed by Ibrahim Adams",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/2kcb4s.jpeg",
@@ -51,7 +51,7 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "ben",
       "required": false
     },
     "BOT_URL": {
@@ -65,8 +65,7 @@
       "required": false
     },
     "HEROKU_API_KEY": {
-      "description": "Enter your Heroku API key to be able to control your vars",
-      "value": "",
+      "description": "Enter your Heroku API key to be able to control your ",
       "required": false 
     },
     "HEROKU_APP_NAME": {
@@ -76,7 +75,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "254105324632",
       "required": false 
     },
     "STATUS_REACT_EMOJIS": {
@@ -96,12 +95,12 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "Ben",
       "required": false
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": "Bwmxmd_knffv",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
